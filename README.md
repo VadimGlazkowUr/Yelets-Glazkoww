@@ -1,1 +1,2 @@
-# Yelets-Glazkoww
+print("Хаюшки все!")
+print("Мур")
